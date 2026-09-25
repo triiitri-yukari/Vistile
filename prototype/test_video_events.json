@@ -1,0 +1,68 @@
+[
+ {
+  "start": 0,
+  "end": 20,
+  "label": "title card 'Chapter 1: Setup'",
+  "kind": "scene"
+ },
+ {
+  "start": 20,
+  "end": 40,
+  "label": "slow pan across landscape",
+  "kind": "scene"
+ },
+ {
+  "start": 40.0,
+  "end": 40.5,
+  "label": "red flash 'ALERT 42'",
+  "kind": "brief"
+ },
+ {
+  "start": 40.5,
+  "end": 60,
+  "label": "chat messages appearing",
+  "kind": "scene"
+ },
+ {
+  "start": 60,
+  "end": 62,
+  "label": "fast montage of 6 shapes",
+  "kind": "brief"
+ },
+ {
+  "start": 62,
+  "end": 90,
+  "label": "static clock screen",
+  "kind": "scene"
+ },
+ {
+  "start": 90,
+  "end": 100,
+  "label": "bouncing ball",
+  "kind": "scene"
+ },
+ {
+  "start": 100,
+  "end": 101,
+  "label": "small overlay 'CODE: 7391'",
+  "kind": "brief"
+ },
+ {
+  "start": 101,
+  "end": 120,
+  "label": "title card 'Chapter 2: Results'",
+  "kind": "scene"
+ },
+ {
+  "start": 120,
+  "end": 135,
+  "label": "noisy dim room brightening",
+  "kind": "scene"
+ },
+ {
+  "start": 135,
+  "end": 150,
+  "label": "figure walks across room",
+  "kind": "scene"
+ }
+]
