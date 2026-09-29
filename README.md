@@ -1,5 +1,7 @@
 # Vistile
 
+**English** | [简体中文](README.zh-CN.md)
+
 **Turn a video into a compact, timestamped visual timeline that multimodal AI models can read.**
 
 Vistile is an Android app that picks the frames that matter from a video and lays them out as contact sheets. Each tile is labelled with an ID, the frame's timestamp, and the time range it stands for. Hand the sheets to any AI chat instead of the video, and it can follow what happens and when, and refer back to exact moments. If a part needs a closer look, zoom into any tile for a denser sheet of just that range.
